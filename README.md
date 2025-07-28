@@ -1,4 +1,4 @@
-# 🛡️ P2P ZK Mixer
+# 🛡️ P2P ZK Anoxchange
 
 A secure, anonymous, and scalable peer-to-peer token exchange system powered by zkSNARK proofs and on-chain withdrawal rights management.
 

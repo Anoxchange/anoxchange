@@ -1,12 +1,3 @@
-Понял 👍
-Я сделаю для тебя один готовый файл `README.md`, чтобы ты мог его скачать и добавить в репозиторий.
-Вот содержимое файла:
-
-📌 Скопируй весь текст и сохрани как **`README.md`** в корень проекта.
-
----
-
-````markdown
 # 🛡️ P2P ZK Mixer
 
 A secure, anonymous, and scalable peer-to-peer token exchange system powered by zkSNARK proofs and on-chain withdrawal rights management.
